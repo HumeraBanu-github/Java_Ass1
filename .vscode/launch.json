@@ -1,0 +1,36 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Arm2",
+            "request": "launch",
+            "mainClass": "Arm2",
+            "projectName": "Java_Ass1_b0a0a990"
+        },
+        {
+            "type": "java",
+            "name": "Launch SiCi",
+            "request": "launch",
+            "mainClass": "SiCi",
+            "projectName": "Java_Ass1_b0a0a990"
+        },
+        {
+            "type": "java",
+            "name": "Launch arm1",
+            "request": "launch",
+            "mainClass": "arm1",
+            "projectName": "Java_Ass1_b0a0a990"
+        }
+    ]
+}
